@@ -67,7 +67,7 @@ Built production-grade AI systems from scratch in 6 days:
 
 ## 💼 Experience
 
-**Assistant Director & Postdoctoral Researcher** — R-SEAT Center, FAMU-FSU *(2020–Present)*  
+**Assistant Director & Postdoctoral Researcher** — R-SEAT Center, FAMU-FSU *(2024–Present)*  
 USDOT-funded research on intelligent transportation, UAV optimization, autonomous mobility
 
 **Data Science Intern** — GM Financial *(2023)*  
@@ -86,22 +86,7 @@ Production ML pipelines on 109M vehicle sales records using Kubeflow and MinIO
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/tsegai-yhdego](https://www.linkedin.com/in/tsegai-yhdego-ph-d-b6209b118/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/tsegai-yhdego](https://www.linkedin.com/in/tsegai-yhdego-ph-d-b6209b118/?isSelfProfile=true))
 [![GitHub](https://img.shields.io/badge/GitHub-Tsegai20-black)](https://github.com/Tsegai20)
 
 *US Person — Unrestricted Work Authorization — Green Card Pending Final Approval*
-
-<!--
-**Tsegai20/Tsegai20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
