@@ -86,7 +86,7 @@ Production ML pipelines on 109M vehicle sales records using Kubeflow and MinIO
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/tsegai-yhdego](https://www.linkedin.com/in/tsegai-yhdego-ph-d-b6209b118/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://linkedin.com/in/tsegai-yhdego](https://www.linkedin.com/in/tsegai-yhdego-ph-d-b6209b118/))
 [![GitHub](https://img.shields.io/badge/GitHub-Tsegai20-black)](https://github.com/Tsegai20)
 
 *US Person — Unrestricted Work Authorization — Green Card Pending Final Approval*
